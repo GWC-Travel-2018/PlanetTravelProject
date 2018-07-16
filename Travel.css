@@ -17,6 +17,12 @@ img {vertical-align: left;
 
 }
 
+.SydBac{
+  background-image: url("SydBac.jpg");
+
+
+}
+
 .Queensland{
   background-image: url("queensBack.jpg");
 
@@ -41,6 +47,23 @@ img {vertical-align: left;
 .VicBac {
   background-image: url("VicBac.jpg");
 
+}
+
+.Canberra{
+  background-image: url("Canberra.jpg");
+
+}
+
+.CanBac{
+    background-image: url("CanBac.jpg");
+}
+
+.Tasmania{
+    background-image: url("Tasmania.jpg");
+}
+
+.TanBac{
+    background-image: url("TanBac.jpg");
 }
 
 /* Slideshow container */
@@ -344,7 +367,7 @@ h2 {
 
 
 h3 {
-  color: #315500;
+  color: #c0f9cd;
   text-shadow:1px 1px 2px black, 0 0 25px white, 0 0 5px black;
   text-decoration:#111111 underline;
   font-size:2em;
